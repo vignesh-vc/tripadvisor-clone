@@ -796,9 +796,9 @@ cursor: pointer;
 
     .search__4--sm h3 {
         position: absolute;
-        font-size: 16px;
-        top: 30px;
-        left: 30px;
+        font-size: 18px;
+        top: 40px;
+        left: 50px;
         color: #F9F9F9;
     }
 
@@ -806,11 +806,11 @@ cursor: pointer;
         width: fit-content;
         position: relative;
         font-size: 12px;
-        bottom: 20px;
-        left: 120px;
+        bottom: 25px;
+        left: 135px;
         color: gray;
         background-color: white;
-        border-radius: 20px;
+        border-radius: 15px;
         padding-left: 5px;
         padding-right: 5px;
         padding: 5px;
